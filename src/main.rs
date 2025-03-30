@@ -5,8 +5,6 @@ use game::{
 };
 
 fn main() {
-    // get username
-    
     let mut game = Game::new();
 
     game.init();
